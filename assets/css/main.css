@@ -14,4 +14,8 @@ header{
 } 
 .menu__links {
     background-color: blue;
+
+} 
+.list__links {
+    background-color: yellow;
 }
