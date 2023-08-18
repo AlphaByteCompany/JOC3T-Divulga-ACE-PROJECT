@@ -3,4 +3,15 @@
     margin: 0; 
     box-sizing: border-box; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+header{
+    display: flex; 
+    flex: 1  1  100vw;
+    
+} 
+.cabecalho{
+    background-color: red;
+} 
+.menu__links {
+    background-color: blue;
 }
